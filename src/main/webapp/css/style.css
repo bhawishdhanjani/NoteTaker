@@ -1,0 +1,44 @@
+
+.navbar-custom{
+	background-color: #F5F5F5;
+	  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+}
+#content{
+	height: 150px;
+
+}
+.p-40{
+	padding: 36px 40px ;
+}
+div.homepage-header {
+	background-color:#FFF6F4;
+	height: 90vh;
+	padding: 20px;
+	display: flex;
+	align-content: center;
+	justify-content: space-between;
+}
+
+div.welcome{
+	display: flex;
+	flex-direction: column;
+	height:70vh;
+	justify-content: center;
+	align-items: center;
+
+	width: 45%;
+	align-self: center;
+	text-align: center;
+
+}
+.welcome .start{
+	margin-top: 25px;
+
+	width: 40%;
+}
+
+img.hompage-image{
+	width:35%;
+	height: auto;
+	align-self: center;
+}
